@@ -1,7 +1,7 @@
-[My Tableu public profile](https://public.tableau.com/profile/karan6916#!/)  ![Tableu](https://img.shields.io/badge/HTML-white.svg) 
+[My Tableu public profile](https://public.tableau.com/profile/karan6916#!/)  ![Tableu](https://img.shields.io/badge/Tableu-black.svg) 
 
 
-
+## Table of conent
 
 
 ```
@@ -18,7 +18,9 @@
 └── Speech recog
 
 ```
-[Iris dataset](https://public.tableau.com/profile/karan6916#!/vizhome/Book1_16076268942200/Dashboard1?publish=yes)
+---------------------------------------------------------------------------------------------------------------------------------------
+
+## Iris dataset [](https://public.tableau.com/profile/karan6916#!/vizhome/Book1_16076268942200/Dashboard1?publish=yes)
 
 ![image](https://user-images.githubusercontent.com/62024355/101943439-12a75980-3c11-11eb-9282-53bf93e82655.png)
 
