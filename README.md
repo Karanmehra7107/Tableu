@@ -1,4 +1,4 @@
-[Tableu public] (https://public.tableau.com/profile/karan6916#!/)
+[Tableu public](https://public.tableau.com/profile/karan6916#!/)
 
 
 ```
