@@ -1,4 +1,4 @@
-[My Tableu public profile](https://public.tableau.com/profile/karan6916#!/)  ![Tableu](https://img.shields.io/badge/Tableu-black.svg) 
+![Tableu](https://img.shields.io/badge/Tableu-black.svg) [My Tableu public profile](https://public.tableau.com/profile/karan6916#!/)  
 
 
 [Web data connector public](https://community.tableau.com/s/groups)
